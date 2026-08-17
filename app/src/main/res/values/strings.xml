@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- عام -->
+    <string name="app_name">نبا+</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">حسنًا</string>
+    <string name="enable">تفعيل</string>
+    <string name="active">نشط</string>
+    <string name="inactive">متوقف</string>
+    <string name="done">تم</string>
+
+    <!-- التبويبات السفلية -->
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_latest">آخر الأخبار</string>
+    <string name="tab_sources">مصادري</string>
+    <string name="tab_categories">مجالات</string>
+    <string name="tab_profile">حسابي</string>
+
+    <!-- تبويبات التغذية العلوية -->
+    <string name="feed_tab_most_read">الأكثر قراءة</string>
+    <string name="feed_tab_latest">آخر الأخبار</string>
+    <string name="feed_tab_breaking">عاجل</string>
+    <string name="feed_tab_for_you">لك</string>
+    <string name="loading_more">جارٍ تحميل المزيد…</string>
+
+    <!-- الأخطاء -->
+    <string name="error_network_title">تعذّر الاتصال</string>
+    <string name="error_network_message">تحقّق من اتصالك بالإنترنت ثم أعد المحاولة.</string>
+    <string name="error_generic_title">حدث خطأ ما</string>
+    <string name="error_generic_message">تعذّر تحميل المحتوى. حاول مرة أخرى.</string>
+    <string name="offline_banner">تُعرض هذه الأخبار من الذاكرة المؤقتة دون اتصال</string>
+
+    <!-- حالات الفراغ -->
+    <string name="empty_saved_title">لا مقالات محفوظة بعد</string>
+    <string name="empty_saved_message">احفظ الأخبار التي تهمّك لقراءتها لاحقًا حتى دون اتصال.</string>
+    <string name="empty_search_title">لا توجد نتائج</string>
+    <string name="empty_search_message">جرّب كلمات مختلفة أو تصفّح المجالات الرائجة.</string>
+    <string name="empty_sources_title">لا مصادر متابَعة</string>
+    <string name="empty_sources_message">تابع مصادرك المفضلة لتصلك أخبارها هنا أولًا بأول.</string>
+    <string name="empty_category_title">لا أخبار في هذا المجال حاليًا</string>
+    <string name="empty_category_message">عد لاحقًا أو استكشف مجالات أخرى.</string>
+    <string name="empty_interactions_title">لا تفاعلات بعد</string>
+    <string name="empty_interactions_message">ستظهر هنا الأخبار التي أعجبتك أو علّقت عليها.</string>
+
+    <!-- الرئيسية -->
+    <string name="home_for_you">مختارات لك</string>
+    <string name="home_latest_section">آخر الأخبار</string>
+
+    <!-- تفاصيل المقال -->
+    <string name="badge_breaking">عاجل</string>
+    <string name="article_related">أخبار ذات صلة</string>
+    <string name="saved_to_favorites">أُضيف إلى المفضلة</string>
+    <string name="removed_from_favorites">أُزيل من المفضلة</string>
+    <string name="share_article">مشاركة الخبر</string>
+    <string name="open_in_browser">فتح في المتصفح</string>
+    <plurals name="read_time_minutes">
+        <item quantity="one">دقيقة قراءة</item>
+        <item quantity="two">دقيقتان قراءة</item>
+        <item quantity="few">%d دقائق قراءة</item>
+        <item quantity="many">%d دقيقة قراءة</item>
+        <item quantity="other">%d دقيقة قراءة</item>
+    </plurals>
+
+    <!-- البحث -->
+    <string name="search_hint">ابحث عن خبر أو موضوع…</string>
+    <string name="recent_searches">عمليات البحث الأخيرة</string>
+    <string name="trending">رائج الآن</string>
+    <string name="clear_all">مسح الكل</string>
+
+    <!-- المصادر -->
+    <string name="sources_title">مصادري</string>
+    <string name="follow">متابعة</string>
+    <string name="following">متابَع</string>
+    <string name="unfollow">إلغاء المتابعة</string>
+    <string name="followers_count">%1$s متابع</string>
+    <string name="source_breaking_alerts">تنبيهات الأخبار العاجلة</string>
+    <string name="source_articles">أخبار المصدر</string>
+
+    <!-- المجالات -->
+    <string name="category_articles">أخبار %1$s</string>
+
+    <!-- الحساب -->
+    <string name="profile_guest">ضيف</string>
+    <string name="profile_guest_subtitle">سجّل الدخول لمزامنة تفضيلاتك</string>
+    <string name="profile_favorites">المفضلة</string>
+    <string name="profile_interactions">التفاعلات</string>
+    <string name="section_settings">الإعدادات</string>
+    <string name="settings_edit_sources">تعديل المصادر</string>
+    <string name="settings_headline_font_size">حجم خط العناوين</string>
+    <string name="settings_autoplay">تشغيل تلقائي للفيديو</string>
+    <string name="settings_dark_mode">إعدادات الوضع الليلي</string>
+    <string name="dark_mode_dark">داكن</string>
+    <string name="dark_mode_light">فاتح</string>
+    <string name="dark_mode_system">حسب النظام</string>
+    <string name="font_size_small">صغير</string>
+    <string name="font_size_medium">متوسط</string>
+    <string name="font_size_large">كبير</string>
+    <string name="font_size_xlarge">كبير جدًا</string>
+    <string name="section_notifications">التنبيهات</string>
+    <string name="notif_breaking">تنبيهات الأخبار العاجلة</string>
+    <string name="notif_choose_sources">اختيار مصادر التنبيهات</string>
+    <string name="notif_top">تنبيهات أهم الأخبار</string>
+    <string name="notif_sports">تنبيهات أخبار الرياضة</string>
+    <string name="notif_matches">تنبيهات نتائج المباريات</string>
+    <string name="notif_sound">صوت التنبيهات</string>
+    <string name="notif_permission_rationale">فعّل الإشعارات لتصلك الأخبار العاجلة فور حدوثها.</string>
+    <string name="section_ai">الذكاء الاصطناعي</string>
+    <string name="ai_personalization">التخصيص الذكي (Gemini AI)</string>
+    <string name="ai_personalization_desc">يرتّب وينظّم أخبار تبويب «لك» بذكاء وفق اهتماماتك وتفاعلاتك السابقة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="version">الإصدار</string>
+    <string name="demo_mode">الوضع التجريبي للبيانات</string>
+    <string name="logout_confirm_title">تسجيل الخروج؟</string>
+    <string name="logout_confirm_message">ستبقى مقالاتك المحفوظة على هذا الجهاز، لكن لن تُزامَن تفضيلاتك بعد الآن.</string>
+    <string name="delete_account_confirm_title">حذف الحساب نهائيًا؟</string>
+    <string name="delete_account_confirm_message">سيُحذف حسابك وكل تفضيلاتك المخزّنة. لا يمكن التراجع عن هذا الإجراء.</string>
+
+    <!-- المصادقة -->
+    <string name="login_title">مرحبًا بعودتك</string>
+    <string name="signup_title">إنشاء حساب جديد</string>
+    <string name="login_subtitle">سجّل الدخول لمزامنة مصادرك ومقالاتك المحفوظة</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="signup_button">إنشاء الحساب</string>
+    <string name="continue_with_google">المتابعة عبر Google</string>
+    <string name="or_divider">أو</string>
+    <string name="switch_to_signup">ليس لديك حساب؟ إنشاء حساب جديد</string>
+    <string name="switch_to_login">لديك حساب بالفعل؟ تسجيل الدخول</string>
+    <string name="auth_error">تعذّر إتمام العملية. يرجى التحقق من البيانات والمحاولة مجددًا.</string>
+    <string name="google_auth_error">تعذّر تسجيل الدخول باستخدام Google.</string>
+    <string name="invalid_email">أدخل بريدًا إلكترونيًا صحيحًا</string>
+    <string name="invalid_password">كلمة المرور ٦ أحرف على الأقل</string>
+    <string name="default_web_client_id">872343695367-19gvum3637gp9801o2gnfi1d1gjvpve0.apps.googleusercontent.com</string>
+
+    <!-- الترحيب -->
+    <string name="onboarding_categories_title">اختر مجالاتك المفضلة</string>
+    <string name="onboarding_categories_subtitle">نستخدمها لترتيب أخبارك واقتراح ما يناسبك</string>
+    <string name="onboarding_sources_title">اختر مصادرك المفضلة</string>
+    <string name="onboarding_sources_subtitle">يمكنك تعديلها لاحقًا من «مصادري»</string>
+    <string name="onboarding_next">التالي</string>
+    <string name="onboarding_skip">تخطي</string>
+    <string name="onboarding_finish">ابدأ الاستخدام</string>
+    <string name="onboarding_min_categories">اختر ٣ مجالات على الأقل</string>
+
+    <!-- التفاعلات -->
+    <string name="interactions_title">التفاعلات</string>
+    <string name="interactions_likes">أخبار أعجبتك</string>
+
+    <!-- الوقت النسبي -->
+    <string name="time_now">الآن</string>
+    <plurals name="time_minutes_ago">
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ دقيقتين</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">منذ %d دقيقة</item>
+    </plurals>
+    <plurals name="time_hours_ago">
+        <item quantity="one">منذ ساعة</item>
+        <item quantity="two">منذ ساعتين</item>
+        <item quantity="few">منذ %d ساعات</item>
+        <item quantity="many">منذ %d ساعة</item>
+        <item quantity="other">منذ %d ساعة</item>
+    </plurals>
+    <plurals name="time_days_ago">
+        <item quantity="one">منذ يوم</item>
+        <item quantity="two">منذ يومين</item>
+        <item quantity="few">منذ %d أيام</item>
+        <item quantity="many">منذ %d يومًا</item>
+        <item quantity="other">منذ %d يوم</item>
+    </plurals>
+
+    <!-- الإشعارات -->
+    <string name="channel_breaking">الأخبار العاجلة</string>
+    <string name="channel_breaking_desc">تنبيهات فورية للأخبار العاجلة</string>
+    <string name="channel_top">أهم الأخبار</string>
+    <string name="channel_top_desc">أهم الأخبار المختارة</string>
+    <string name="channel_sports">أخبار الرياضة</string>
+    <string name="channel_sports_desc">أخبار الرياضة ونتائج المباريات</string>
+</resources>

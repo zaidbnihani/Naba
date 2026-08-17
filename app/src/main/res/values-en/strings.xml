@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">Nba+</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="enable">Enable</string>
+    <string name="active">Active</string>
+    <string name="inactive">Off</string>
+    <string name="done">Done</string>
+
+    <!-- Bottom tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_latest">Latest</string>
+    <string name="tab_sources">My Sources</string>
+    <string name="tab_categories">Topics</string>
+    <string name="tab_profile">Account</string>
+
+    <!-- Feed top tabs -->
+    <string name="feed_tab_most_read">Most Read</string>
+    <string name="feed_tab_latest">Latest</string>
+    <string name="feed_tab_breaking">Breaking</string>
+    <string name="feed_tab_for_you">For You</string>
+    <string name="loading_more">Loading more…</string>
+
+    <!-- Errors -->
+    <string name="error_network_title">No connection</string>
+    <string name="error_network_message">Check your internet connection and try again.</string>
+    <string name="error_generic_title">Something went wrong</string>
+    <string name="error_generic_message">Couldn\'t load content. Please try again.</string>
+    <string name="offline_banner">Showing cached articles while offline</string>
+
+    <!-- Empty states -->
+    <string name="empty_saved_title">No saved articles yet</string>
+    <string name="empty_saved_message">Bookmark stories you care about to read them later, even offline.</string>
+    <string name="empty_search_title">No results</string>
+    <string name="empty_search_message">Try different keywords or browse trending topics.</string>
+    <string name="empty_sources_title">No followed sources</string>
+    <string name="empty_sources_message">Follow your favorite sources to see their stories here first.</string>
+    <string name="empty_category_title">No stories in this topic yet</string>
+    <string name="empty_category_message">Check back later or explore other topics.</string>
+    <string name="empty_interactions_title">No interactions yet</string>
+    <string name="empty_interactions_message">Articles you like or comment on will appear here.</string>
+
+    <!-- Home -->
+    <string name="home_for_you">Picked for you</string>
+    <string name="home_latest_section">Latest news</string>
+
+    <!-- Article detail -->
+    <string name="badge_breaking">BREAKING</string>
+    <string name="article_related">Related stories</string>
+    <string name="saved_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="share_article">Share article</string>
+    <string name="open_in_browser">Open in browser</string>
+    <plurals name="read_time_minutes">
+        <item quantity="one">%d min read</item>
+        <item quantity="other">%d min read</item>
+    </plurals>
+
+    <!-- Search -->
+    <string name="search_hint">Search for news or topics…</string>
+    <string name="recent_searches">Recent searches</string>
+    <string name="trending">Trending now</string>
+    <string name="clear_all">Clear all</string>
+
+    <!-- Sources -->
+    <string name="sources_title">My Sources</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="followers_count">%1$s followers</string>
+    <string name="source_breaking_alerts">Breaking news alerts</string>
+    <string name="source_articles">From this source</string>
+
+    <!-- Categories -->
+    <string name="category_articles">%1$s news</string>
+
+    <!-- Profile -->
+    <string name="profile_guest">Guest</string>
+    <string name="profile_guest_subtitle">Sign in to sync your preferences</string>
+    <string name="profile_favorites">Favorites</string>
+    <string name="profile_interactions">Interactions</string>
+    <string name="section_settings">Settings</string>
+    <string name="settings_edit_sources">Edit sources</string>
+    <string name="settings_headline_font_size">Headline font size</string>
+    <string name="settings_autoplay">Autoplay videos</string>
+    <string name="settings_dark_mode">Dark mode settings</string>
+    <string name="dark_mode_dark">Dark</string>
+    <string name="dark_mode_light">Light</string>
+    <string name="dark_mode_system">System</string>
+    <string name="font_size_small">Small</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_large">Large</string>
+    <string name="font_size_xlarge">Extra large</string>
+    <string name="section_notifications">Notifications</string>
+    <string name="notif_breaking">Breaking news alerts</string>
+    <string name="notif_choose_sources">Choose alert sources</string>
+    <string name="notif_top">Top stories alerts</string>
+    <string name="notif_sports">Sports news alerts</string>
+    <string name="notif_matches">Match results alerts</string>
+    <string name="notif_sound">Notification sound</string>
+    <string name="notif_permission_rationale">Enable notifications to get breaking news as it happens.</string>
+    <string name="section_ai">Artificial Intelligence</string>
+    <string name="ai_personalization">Smart Personalization (Gemini AI)</string>
+    <string name="ai_personalization_desc">Intelligently organizes and ranks your “For You” feed based on your interests and past interactions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Log out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="version">Version</string>
+    <string name="demo_mode">Demo data mode</string>
+    <string name="logout_confirm_title">Log out?</string>
+    <string name="logout_confirm_message">Saved articles stay on this device, but preferences will no longer sync.</string>
+    <string name="delete_account_confirm_title">Delete account permanently?</string>
+    <string name="delete_account_confirm_message">Your account and stored preferences will be deleted. This cannot be undone.</string>
+
+    <!-- Auth -->
+    <string name="login_title">Welcome back</string>
+    <string name="signup_title">Create a new account</string>
+    <string name="login_subtitle">Sign in to sync your sources and saved articles</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Sign in</string>
+    <string name="signup_button">Create account</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="or_divider">OR</string>
+    <string name="switch_to_signup">Don\'t have an account? Sign up</string>
+    <string name="switch_to_login">Already have an account? Sign in</string>
+    <string name="auth_error">Couldn\'t complete the action. Please check your credentials and try again.</string>
+    <string name="google_auth_error">Failed to sign in with Google.</string>
+    <string name="invalid_email">Enter a valid email address</string>
+    <string name="invalid_password">Password must be at least 6 characters</string>
+    <string name="default_web_client_id">872343695367-19gvum3637gp9801o2gnfi1d1gjvpve0.apps.googleusercontent.com</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_categories_title">Pick your favorite topics</string>
+    <string name="onboarding_categories_subtitle">We use them to arrange your news and suggest relevant stories</string>
+    <string name="onboarding_sources_title">Pick your favorite sources</string>
+    <string name="onboarding_sources_subtitle">You can change these later in “My Sources”</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_finish">Start using the app</string>
+    <string name="onboarding_min_categories">Pick at least 3 topics</string>
+
+    <!-- Interactions -->
+    <string name="interactions_title">Interactions</string>
+    <string name="interactions_likes">Articles you liked</string>
+
+    <!-- Relative time -->
+    <string name="time_now">now</string>
+    <plurals name="time_minutes_ago">
+        <item quantity="one">%d min ago</item>
+        <item quantity="other">%d mins ago</item>
+    </plurals>
+    <plurals name="time_hours_ago">
+        <item quantity="one">%d hour ago</item>
+        <item quantity="other">%d hours ago</item>
+    </plurals>
+    <plurals name="time_days_ago">
+        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+
+    <!-- Notifications -->
+    <string name="channel_breaking">Breaking news</string>
+    <string name="channel_breaking_desc">Instant alerts for breaking news</string>
+    <string name="channel_top">Top stories</string>
+    <string name="channel_top_desc">Selected top stories</string>
+    <string name="channel_sports">Sports</string>
+    <string name="channel_sports_desc">Sports news and match results</string>
+</resources>

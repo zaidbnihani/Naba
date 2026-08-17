@@ -1,0 +1,112 @@
+{
+  "sources": [
+    {
+      "source_id": "aljazeera",
+      "name": "الجزيرة نت",
+      "icon_url": "https://ui-avatars.com/api/?name=AJ&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-aljazeera/900/300",
+      "description": "تغطية إخبارية عربية شاملة للأحداث العالمية والعربية على مدار الساعة.",
+      "category": "politics",
+      "followers": 4250000
+    },
+    {
+      "source_id": "petra",
+      "name": "وكالة الأنباء الأردنية (بترا)",
+      "icon_url": "https://ui-avatars.com/api/?name=PT&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-petra/900/300",
+      "description": "الوكالة الرسمية للأخبار في المملكة الأردنية الهاشمية.",
+      "category": "politics",
+      "followers": 890000
+    },
+    {
+      "source_id": "addustour",
+      "name": "الدستور",
+      "icon_url": "https://ui-avatars.com/api/?name=AD&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-dustour/900/300",
+      "description": "صحيفة يومية أردنية شاملة تغطية سياسية واقتصادية ورياضية.",
+      "category": "politics",
+      "followers": 520000
+    },
+    {
+      "source_id": "reuters",
+      "name": "رويترز عربي",
+      "icon_url": "https://ui-avatars.com/api/?name=RT&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-reuters/900/300",
+      "description": "أخبار عالمية ومالية دقيقة ومحايدة باللغة العربية.",
+      "category": "business",
+      "followers": 3100000
+    },
+    {
+      "source_id": "alghad",
+      "name": "الغد",
+      "icon_url": "https://ui-avatars.com/api/?name=AG&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-alghad/900/300",
+      "description": "صحيفة أردنية يومية متخصصة في الاقتصاد والأعمال والشأن المحلي.",
+      "category": "business",
+      "followers": 350000
+    },
+    {
+      "source_id": "techarabi",
+      "name": "عالم التقنية",
+      "icon_url": "https://ui-avatars.com/api/?name=TA&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-techarabi/900/300",
+      "description": "آخر أخبار الهواتف والحاسوب والتطبيقات وعلوم التقنية بالعربية.",
+      "category": "technology",
+      "followers": 480000
+    },
+    {
+      "source_id": "hwarabi",
+      "name": "هاردوير بالعربي",
+      "icon_url": "https://ui-avatars.com/api/?name=HW&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-hwarabi/900/300",
+      "description": "مراجعات وتجارب عملية للعتاد والأجهزة الذكية بأسلوب عربي مبسط.",
+      "category": "technology",
+      "followers": 120000
+    },
+    {
+      "source_id": "sihaty",
+      "name": "صحتي",
+      "icon_url": "https://ui-avatars.com/api/?name=SH&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-sihaty/900/300",
+      "description": "معلومات طبية موثوقة ونصائح صحية يومية من أطباء متخصصين.",
+      "category": "health",
+      "followers": 210000
+    },
+    {
+      "source_id": "kooora",
+      "name": "كورة",
+      "icon_url": "https://ui-avatars.com/api/?name=KO&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-kooora/900/300",
+      "description": "أخبار الرياضة العربية والعالمية ونتائج المباريات لحظة بلحظة.",
+      "category": "sports",
+      "followers": 2750000
+    },
+    {
+      "source_id": "nabdai",
+      "name": "نبض الذكاء",
+      "icon_url": "https://ui-avatars.com/api/?name=AI&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-nabdai/900/300",
+      "description": "متخصصون يشرحون علوم الذكاء الاصطناعي وتطبيقاته بالعربية.",
+      "category": "ai",
+      "followers": 165000
+    },
+    {
+      "source_id": "arabwheels",
+      "name": "عرب كارز",
+      "icon_url": "https://ui-avatars.com/api/?name=AC&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-wheels/900/300",
+      "description": "أخبار السيارات والمعارض وأسعار السوق العربي أولاً بأول.",
+      "category": "automotive",
+      "followers": 98000
+    },
+    {
+      "source_id": "rihlat",
+      "name": "رحلات",
+      "icon_url": "https://ui-avatars.com/api/?name=RH&background=1a1b2e&color=A29BFE&size=128",
+      "banner_url": "https://picsum.photos/seed/nba-src-rihlat/900/300",
+      "description": "دليلك العربي للسفر والوجهات وتجارب الطعام حول العالم.",
+      "category": "travel",
+      "followers": 320000
+    }
+  ]
+}
